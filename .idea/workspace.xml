@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8afa2f8-1f28-45ff-b73c-4d3140bc727b" name="Default" comment="" />
+    <ignored path="inv-cart-ci.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="inv-cart-ci" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="47" selection-start="1599" selection-end="1599" vertical-scroll-proportion="1.1357827" vertical-offset="105" max-vertical-offset="1037">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/pages/v_penjualan.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/v_tab_master_barang.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modal_edit_pegawai.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modal_add_penjualan_barang.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modal_add_pelanggan.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modal_edit_pelanggan.php" />
+        <option value="$PROJECT_DIR$/application/views/subelement/v_print_penjualan.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/v_detail_penjualan.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/v_tab_master_contact.php" />
+        <option value="$PROJECT_DIR$/application/views/element/v_header.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/v_tab_master_pegawai.php" />
+        <option value="$PROJECT_DIR$/application/models/model_app.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/v_dashboard.php" />
+        <option value="$PROJECT_DIR$/application/controllers/cetak.php" />
+        <option value="$PROJECT_DIR$/application/controllers/laporan.php" />
+        <option value="$PROJECT_DIR$/application/controllers/master.php" />
+        <option value="$PROJECT_DIR$/application/controllers/penjualan.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/v_login.php" />
+        <option value="$PROJECT_DIR$/db/db_penjualan.sql" />
+        <option value="$PROJECT_DIR$/application/controllers/login.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penjualan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logistik" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\penjualan\application\helpers" />
+      <recent name="C:\xampp\htdocs\penjualan\application\views\subelement" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\asset\js" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\asset\img" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\asset\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\inv-cart-ci\application\views\pages" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\application\views" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\application\views\pages\master_data\modal" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\application\views\pages\master_data" />
+      <recent name="C:\xampp\htdocs\inv-cart-ci\application\views\pages\content" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8afa2f8-1f28-45ff-b73c-4d3140bc727b" name="Default" comment="" />
+      <created>1367958352797</created>
+      <updated>1367958352797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1040" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28710938" sideWeight="0.67111856" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="52" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="339" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="1750" max-vertical-offset="2312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="54" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/element/v_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="27" selection-start="2746" selection-end="2746" vertical-scroll-proportion="0.0" vertical-offset="874" max-vertical-offset="1547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="1682" max-vertical-offset="2278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="54" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2057" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/ajax_detail_pelanggan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_detail_penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="10" selection-start="1816" selection-end="1816" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/db_penjualan.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="4909" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3247" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="54" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_detail_penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="10" selection-start="1816" selection-end="1816" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cetak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="282" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_tab_master_barang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="9" selection-start="1286" selection-end="1286" vertical-scroll-proportion="1.1460674" vertical-offset="0" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="20" selection-start="507" selection-end="507" vertical-scroll-proportion="0.46617916" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_tab_master_contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1283" selection-end="1283" vertical-scroll-proportion="1.0149254" vertical-offset="0" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/ajax_detail_pelanggan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_detail_penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="10" selection-start="1816" selection-end="1816" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/element/v_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="27" selection-start="2746" selection-end="2746" vertical-scroll-proportion="0.16295026" vertical-offset="874" max-vertical-offset="1547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="40" selection-start="1967" selection-end="1967" vertical-scroll-proportion="-15.692307" vertical-offset="714" max-vertical-offset="2057">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="257" selection-end="257" vertical-scroll-proportion="0.14358108" vertical-offset="0" max-vertical-offset="592">
+          <folding>
+            <marker date="1403677018606" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="16" selection-start="5592" selection-end="5592" vertical-scroll-proportion="1.7765089" vertical-offset="1988" max-vertical-offset="3264">
+          <folding>
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="select MAX(R..tbl_penjualan_header..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="select MAX(R..tbl_barang..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="select MAX(R..tbl_pelanggan..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="select MAX(R..tbl_pegawai..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="SELECT * fro..tbl_barang..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="SELECT a.kd_..tbl_penjualan_header..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="select count..tbl_penjualan_detail..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="SELECT * fro..tbl_penjualan_header..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="select a.kd_..tbl_penjualan_detail..." />
+            <marker date="1403675783634" expanded="true" signature="-1:-1" placeholder="SELECT *,sum..tbl_penjualan_header..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_tab_master_pegawai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="47" selection-start="6511" selection-end="6511" vertical-scroll-proportion="0.88907015" vertical-offset="2141" max-vertical-offset="3060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cetak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="8" selection-start="197" selection-end="390" vertical-scroll-proportion="0.16639479" vertical-offset="0" max-vertical-offset="613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/laporan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="303" selection-end="303" vertical-scroll-proportion="0.19412725" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="112" selection-end="305" vertical-scroll-proportion="0.19412725" vertical-offset="0" max-vertical-offset="613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="302" selection-end="302" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="2312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="305" selection-end="305" vertical-scroll-proportion="0.19412725" vertical-offset="0" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/db_penjualan.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="51" selection-start="3895" selection-end="3895" vertical-scroll-proportion="0.82682514" vertical-offset="1774" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/v_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="95" selection-start="520" selection-end="520" vertical-scroll-proportion="-1.8564438" vertical-offset="1308" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="20" selection-start="938" selection-end="938" vertical-scroll-proportion="0.34664536" vertical-offset="395" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="47" selection-start="1599" selection-end="1599" vertical-scroll-proportion="1.1357827" vertical-offset="105" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
